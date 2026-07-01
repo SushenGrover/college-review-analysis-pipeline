@@ -1,0 +1,3 @@
+Model,Accuracy,F1_Weighted
+RandomForestClassifier,0.7105339947475926,0.6797733537279267
+LogisticRegression,0.6985701779982492,0.6889163831199688

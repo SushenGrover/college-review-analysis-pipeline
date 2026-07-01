@@ -1,0 +1,147 @@
+college_id,kaggle_college_name
+1,IIT Bombay - Indian Institute of Technology - [IITB]
+2,IIT Delhi - Indian Institute of Technology [IITD]
+3,IIT Madras - Indian Institute of Technology - [IITM]
+4,IIT Kanpur - Indian Institute of Technology - [IITK]
+5,IIT Kharagpur - Indian Institute of Technology - [IITKGP]
+6,IIT Roorkee - Indian Institute of Technology - [IITR]
+7,IIT Guwahati - Indian Institute of Technology - [IITG]
+8,IIT Hyderabad - Indian Institute of Technology - [IITH]
+9,IIT BHU - Indian Institute of Technology
+10,IIT Indore - Indian Institute of Technology - [IITI]
+11,IIT Gandhinagar - Indian Institute of Technology - [IITG]
+12,IIT Ropar - Indian Institute of Technology - [IITR]
+13,IIT Patna - Indian Institute of Technology - [IITP]
+14,IIT Mandi- Indian Institute of Technology - [IITM]
+15,IIT Jodhpur - Indian Institute of Technology - [IITJ]
+16,IIT Tirupati - Indian Institute of Technology - [IITTP]
+17,IIT Palakkad - Indian Institute of Technology - [IITPKD]
+18,IIT Bhilai - Indian Institute of Technology - [IITB]
+19,IIT Jammu - Indian Institute of Technology - [IITJ]
+20,IIT Dharwad - Indian Institute of Technology - [IITD]
+21,IIT Goa - Indian Institute of Technology - [IITG]
+22,ISM Dhanbad - Indian Institute of Technology - [IITISM]
+23,IIT Bhubaneswar - Indian Institute of Technology - [IITBBS]
+24,NIT Trichy
+25,National Institute of Technology - [NITK]
+26,NIT Warangal
+27,National Institute of Technology - [NIT]
+28,National Institute of Technology - [NITC]
+29,MNNIT Allahabad - Motilal Nehru National Institute of Technology - [MNNIT]
+30,Malaviya National Institute of Technology - [MNIT]
+31,National Institute of Technology - [NIT]
+32,National Institute of Technology - [NIT]
+33,NIT Silchar
+34,National Institute of Technology - [NIT]
+35,National Institute of Technology - [NIT]
+36,National Institute of Technology - [NITP]
+37,National Institute of Technology - [NIT]
+38,National Institute of Technology - [NIT]
+39,National Institute of Technology - [NIT]
+40,National Institute of Technology - [NIT] Meghalaya
+41,National Institute of Technology Arunachal Pradesh
+42,National Institute of Technology Nagaland
+43,National Institute of Technology Mizoram
+44,National Institute of Technology Sikkim
+45,National Institute of Technology - [NIT] Uttarkhand
+46,National Institute of Technology Manipur
+47,National Institute of Technology - [NITAP]
+48,National Institute of Technology Goa
+49,National Institute of Technology Delhi
+50,National Institute of Technology Puducherry
+51,Dr BR Ambedkar National Institute of Technology - [NIT]
+52,Maulana Azad National Institute of Technology - [MANIT]
+53,Sardar Vallabhbhai National Institute of Technology - [SVNIT]
+54,National Institute of Technology - [NIT]
+55,International Institute of Information Technology - [IIIT]
+56,International Institute of Information Technology - [IIIT]
+57,Indian Institute of Information Technology - [IIIT]
+58,Atal Bihari Vajpayee Indian Institute of Information Technology and Management - [ABVIIITM]
+59,Indian Institute of Information Technology Design and Manufacturing - [IIITDM]
+60,Indian Institute of Information Technology Design and Manufacturing - [IIITDM]
+61,Indian Institute of Information Technology - [IIIT]
+62,Indian Institute of Information Technology - [IIIT]
+63,Indian Institute of Information Technology - [IIIT]
+64,Indian Institute of Information Technology - [IIIT]
+65,Indian Institute of Information Technology - [IIIT]
+66,Indian Institute of Information Technology Surat
+67,Indian Institute of Information Technology Vadodara - [IIIT-V]
+68,Indian Institute of Information Technology Bhagalpur
+69,Indian Institute of Information Technology Agartala
+70,Indian Institute of Information Technology Una
+71,Indian Institute of Information Technology Sonepat
+72,Indian Institute of Information Technology Kottayam
+73,Indian Institute of Information Technology Tiruchirappalli
+74,Indian Institute of Information Technology Dharwad
+75,Indian Institute of Information Technology Raichur
+76,Indian Institute of Information Technology Manipur
+77,Indian Institute of Information Technology Kalyani
+78,International Institute of Information Technology - [IIIT] Naya Raipur
+79,Indian Institute of Information Technology Sri City - [IIIT]
+80,BITS Pilani (Pilani Campus)
+81,BITS Pilani (Pilani Campus)
+82,BITS Pilani (Pilani Campus)
+83,Vellore Institute of Technology - [VIT University]
+84,Vellore Institute of Technology - [VIT]
+85,VIT University - [VIT- AP]
+86,SRM Institute of Science and Technology - [SRMIST]
+87,SRM University
+88,Manipal Institute of Technology - [MIT]
+89,Amrita Vishwa Vidyapeetham
+90,Thapar Institute of Engineering and Technology - [Thapar University]
+91,The LNM Institute of Information Technology - [LNMIIT]
+92,Shiv Nadar University - [SNU]
+93,University of Petroleum and Energy Studies - [UPES]
+94,Chitkara University
+95,Amity University
+96,Kalinga Institute of Industrial Technology - [KIIT]
+97,Lovely Professional University - [LPU]
+98,Narsee Monjee Institute of Management Studies -[NMIMS Deemed to be University]
+99,Christ University
+100,Symbiosis Institute of Technology - [SIT]
+101,College of Engineering - [COEP]
+102,Veermata Jijabai Technological Institute - [VJTI]
+103,Jadavpur University - [JU]
+104,Anna University - [AU]
+105,Delhi Technological University - [DTU]
+106,Netaji Subhas University of Technology - [NSUT]
+107,Punjab Engineering College University of Technology - [PEC]
+108,Indian Institute of Science - [IISc]
+109,Institute of Technology, Nirma University
+110,Dhirubhai Ambani Institute of Information and Communication Technology - [DA-IICT]
+111,Institute of Chemical Technology - [ICT]
+112,BMS College of Engineering - [BMSCE]
+113,Ramaiah Institute of Technology - [RIT]
+114,PES University - [PESU]
+115,R V College of Engineering - [RVCE]
+116,Maharashtra Institute of Technology - [MIT]
+117,Institute of Engineering and Management - [IEM]
+118,Heritage Institute of Technology - [HIT]
+119,Galgotias University - [GU]
+120,Jaypee Institute of Information Technology University - [JIIT]
+121,Indian Institute of Engineering Science and Technology - [IIEST] Shibpur
+123,Ajay Kumar Garg Engineering College - [AKGEC]
+125,Nitte Meenakshi Institute of Technology - [NMIT]
+126,RNS Institute of Technology - [RNSIT]
+127,SASTRA University
+128,P.S.G College of Technology - [PSGCT]
+129,Thiagarajar College of Engineering - [TCE]
+130,Vel Tech Rangarajan Dr. Sagunthala R and D Institute of Science and Technology - [Vel Tech]
+131,Saveetha Engineering College - [SEC]
+132,KLE Technological University
+133,Dayananda Sagar College of Engineering - [DSCE]
+135,Manipal Institute of Technology - [MIT]
+136,REVA University
+137,Sri Ramakrishna Institute of Technology - [SRIT]
+138,Shiv Nadar University
+139,University of Petroleum and Energy Studies - [UPES]
+140,Graphic Era University - [GEU]
+141,DIT University - [DIT]
+142,Bennett University
+143,GLA University
+144,Harcourt Butler Technological University - [HBTU]
+145,University Institute of Engineering and Technology - [UIET]
+146,Birla Institute of Technology - [BIT Mesra]
+147,Tezpur University - [TU]
+148,Assam Engineering College - [AEC]
+149,SRM Institute of Science and Technology - [SRMIST]

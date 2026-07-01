@@ -1,0 +1,148 @@
+Indian Institute of Technology Bombay
+Indian Institute of Technology Delhi
+Indian Institute of Technology Madras
+Indian Institute of Technology Kanpur
+Indian Institute of Technology Kharagpur
+Indian Institute of Technology Roorkee
+Indian Institute of Technology Guwahati
+Indian Institute of Technology Hyderabad
+Indian Institute of Technology Banaras Hindu University Varanasi
+Indian Institute of Technology Indore
+Indian Institute of Technology Gandhinagar
+Indian Institute of Technology Ropar
+Indian Institute of Technology Patna
+Indian Institute of Technology Mandi
+Indian Institute of Technology Jodhpur
+Indian Institute of Technology Tirupati
+Indian Institute of Technology Palakkad
+Indian Institute of Technology Bhilai
+Indian Institute of Technology Jammu
+Indian Institute of Technology Dharwad
+Indian Institute of Technology Goa
+Indian Institute of Technology Dhanbad
+Indian Institute of Technology Bhubaneswar
+National Institute of Technology Tiruchirappalli
+National Institute of Technology Karnataka Surathkal
+National Institute of Technology Warangal
+National Institute of Technology Rourkela
+National Institute of Technology Calicut
+Motilal Nehru National Institute of Technology Allahabad
+Malaviya National Institute of Technology Jaipur
+National Institute of Technology Kurukshetra
+National Institute of Technology Durgapur
+National Institute of Technology Silchar
+National Institute of Technology Hamirpur
+National Institute of Technology Jamshedpur
+National Institute of Technology Patna
+National Institute of Technology Raipur
+National Institute of Technology Srinagar
+National Institute of Technology Agartala
+National Institute of Technology Meghalaya
+National Institute of Technology Arunachal Pradesh
+National Institute of Technology Nagaland
+National Institute of Technology Mizoram
+National Institute of Technology Sikkim
+National Institute of Technology Uttarakhand
+National Institute of Technology Manipur
+National Institute of Technology Andhra Pradesh
+National Institute of Technology Goa
+National Institute of Technology Delhi
+National Institute of Technology Puducherry
+Dr B R Ambedkar National Institute of Technology Jalandhar
+Maulana Azad National Institute of Technology Bhopal
+Sardar Vallabhbhai National Institute of Technology Surat
+National Institute of Technology Kurukshetra
+International Institute of Information Technology Hyderabad
+International Institute of Information Technology Bangalore
+Indian Institute of Information Technology Allahabad
+Indian Institute of Information Technology Gwalior
+Indian Institute of Information Technology Jabalpur
+Indian Institute of Information Technology Kancheepuram
+Indian Institute of Information Technology Pune
+Indian Institute of Information Technology Nagpur
+Indian Institute of Information Technology Bhopal
+Indian Institute of Information Technology Ranchi
+Indian Institute of Information Technology Kota
+Indian Institute of Information Technology Surat
+Indian Institute of Information Technology Vadodara
+Indian Institute of Information Technology Bhagalpur
+Indian Institute of Information Technology Agartala
+Indian Institute of Information Technology Una
+Indian Institute of Information Technology Sonepat
+Indian Institute of Information Technology Kottayam
+Indian Institute of Information Technology Tiruchirappalli
+Indian Institute of Information Technology Dharwad
+Indian Institute of Information Technology Raichur
+Indian Institute of Information Technology Manipur
+Indian Institute of Information Technology Kalyani
+Indian Institute of Information Technology Naya Raipur
+Indian Institute of Information Technology Sri City
+Birla Institute of Technology and Science Pilani
+Birla Institute of Technology and Science Goa
+Birla Institute of Technology and Science Hyderabad
+Vellore Institute of Technology Vellore
+Vellore Institute of Technology Chennai
+Vellore Institute of Technology Andhra Pradesh
+SRM Institute of Science and Technology Kattankulathur
+SRM University AP Amaravati
+Manipal Institute of Technology
+Amrita Vishwa Vidyapeetham Coimbatore
+Thapar Institute of Engineering and Technology Patiala
+The LNM Institute of Information Technology Jaipur
+Shiv Nadar University Greater Noida
+University of Petroleum and Energy Studies Dehradun
+Chitkara University Punjab
+Amity University Noida
+Kalinga Institute of Industrial Technology Bhubaneswar
+Lovely Professional University Phagwara
+Narsee Monjee Institute of Management Studies Mumbai
+Christ University Bangalore
+Symbiosis Institute of Technology Pune
+College of Engineering Pune
+Veermata Jijabai Technological Institute Mumbai
+Jadavpur University Kolkata
+Anna University Chennai
+Delhi Technological University Delhi
+Netaji Subhas University of Technology New Delhi
+Punjab Engineering College Chandigarh
+Indian Institute of Science Bangalore
+Institute of Technology Nirma University Ahmedabad
+Dhirubhai Ambani Institute of Information and Communication Technology Gandhinagar
+Institute of Chemical Technology Mumbai
+BMS College of Engineering Bangalore
+Ramaiah Institute of Technology Bangalore
+PES University Bangalore
+RV College of Engineering Bangalore
+Maharashtra Institute of Technology Pune
+Institute of Engineering and Management Kolkata
+Heritage Institute of Technology Kolkata
+Galgotias University Greater Noida
+Jaypee Institute of Information Technology Noida
+Indian Institute of Engineering Science and Technology Shibpur
+SRM Institute of Science and Technology NCR Campus Ghaziabad
+Ajay Kumar Garg Engineering College Ghaziabad
+Yeshwantrao Chavan College of Engineering Nagpur
+Nitte Meenakshi Institute of Technology Bangalore
+RNS Institute of Technology Bangalore
+Sastra Deemed University Thanjavur
+PSG College of Technology Coimbatore
+Thiagarajar College of Engineering Madurai
+Vel Tech Rangarajan Dr Sagunthala R and D Institute of Science and Technology Chennai
+Saveetha Engineering College Chennai
+KLE Technological University Hubli
+Dayananda Sagar College of Engineering Bangalore
+Nitte Meenakshi Institute of Technology Manipal
+Manipal Institute of Technology Manipal
+REVA University Bangalore
+Sri Ramakrishna Institute of Technology Coimbatore
+Shiv Nadar University Chennai
+University of Petroleum and Energy Studies Dehradun
+Graphic Era University Dehradun
+DIT University Dehradun
+Bennett University Greater Noida
+GLA University Mathura
+Harcourt Butler Technical University Kanpur
+University Institute of Engineering and Technology Chandigarh University Chandigarh
+Birla Institute of Technology Mesra
+Tezpur University Tezpur
+Assam Engineering College Guwahati
