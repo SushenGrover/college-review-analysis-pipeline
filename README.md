@@ -106,18 +106,18 @@ Data Science Project/
 
 ```
   ┌──────────────┐     ┌────────────────┐     ┌───────────────┐
-  │ Web Scraping  │────▶│  Data Cleaning │────▶│   Merging &   │
-  │ (3 sources)   │     │  & Formatting  │     │ Standardizing │
+  │ Web Scraping │───▶│  Data Cleaning │────▶│   Merging &   │
+  │ (3 sources)  │     │  & Formatting  │     │ Standardizing │
   └──────────────┘     └────────────────┘     └───────┬───────┘
                                                       │
                                                       ▼
                                               ┌───────────────┐
-                                              │   Feature      │
-                                              │  Engineering   │
+                                              │   Feature     │
+                                              │  Engineering  │
                                               └───────┬───────┘
                                                       │
-                              ┌────────────────────────┼────────────────────────┐
-                              ▼                        ▼                        ▼
+                              ┌───────────────────────┼────────────────────────┐
+                              ▼                       ▼                        ▼
                       ┌──────────────┐        ┌──────────────┐        ┌──────────────┐
                       │     EDA      │        │  ML Models   │        │Visualization │
                       │  (Review 1)  │        │  (Review 2)  │        │  (Review 2)  │
